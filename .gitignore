@@ -1,3 +1,6 @@
 /venv/
 /SN_d_tot_V2.0.txt
 /test2png.png
+/last_downloaded.dat
+/*.png
+/.idea
